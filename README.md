@@ -1,6 +1,6 @@
 # ds-learning
 
-Repozytorium do nauki i realizacji pierwszych projektów z zakresu data science.
+Repozytorium do nauki i realizacji pierwszych projektów z zakresu analizy danych.
 Materiały i ćwiczenia obejmują analizę danych oraz pracę z Git.
 
 ## Cel projektu
