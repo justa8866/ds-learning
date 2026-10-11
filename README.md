@@ -20,3 +20,9 @@ Pliki CSV oraz lokalne katalogi `data/` i `models/` są ignorowane przez Git. Ni
 ## Synchronizacja
 
 Zmiany z lokalnego repozytorium i GitHub są łączone za pomocą poleceń `push` i `pull`.
+
+## Porównywanie zmian
+
+- `git diff` pokazuje niezacommitowane zmiany w plikach.
+- `git diff HEAD~1 HEAD` porównuje ostatni commit z jego poprzednikiem.
+- `git diff <commit-hash1> <commit-hash2>` porównuje dwa wybrane commity.
