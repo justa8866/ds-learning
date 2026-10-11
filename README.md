@@ -1,6 +1,7 @@
-# My First Data Science Project
+# ds-learning
 
 Repozytorium do nauki i realizacji pierwszych projektów z zakresu data science.
+Materiały i ćwiczenia obejmują analizę danych oraz pracę z Git.
 
 ## Cel projektu
 
